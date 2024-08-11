@@ -1,7 +1,7 @@
 // Lisensi yang digunakan adalah MIT dengan compiler solidity 0.8;
 
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8;
+pragma solidity 0.8.26;
 
 // membuat sebuah contract dengan nama HelloWorld
 contract HelloWorld {

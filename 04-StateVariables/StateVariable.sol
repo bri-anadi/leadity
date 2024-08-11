@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.7;
+pragma solidity 0.8.26;
 
 // state variable secara sederhana adalah menyimpan data kedalam blockchain
 // dapat bertipe lokal maupun global variable
